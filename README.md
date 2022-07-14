@@ -1,5 +1,5 @@
 # Stratego Game
-This is the Stratego board gaming coded in JAVA Processing.
+This is the Stratego board game coded in JAVA Processing.
 
 # Requirements
 - JAVA
